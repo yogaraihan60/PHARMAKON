@@ -15,7 +15,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pharmakon.git
+git clone https://github.com/yogaraihan60/pharmakon.git
 cd pharmakon
 
 # Install dependencies
@@ -645,4 +645,5 @@ For questions, issues, or contributions, please open an issue on GitHub.
 ---
 
 *Last Updated: 2025*
+
 
