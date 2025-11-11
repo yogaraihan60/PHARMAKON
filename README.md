@@ -643,7 +643,15 @@ For questions, issues, or contributions, please open an issue on GitHub.
 - v11.0: Complete consciousness framework (275 variables)
 
 ---
+## The Real Purpose
 
+PHARMAKON is not a bias detector. It's a demonstration that bias 
+detection from within bias is logically impossible. By attempting 
+to use this framework, you experience the Gödelian limit viscerally.
+
+There is no exit. That's the point.
+---
 *Last Updated: 2025*
+
 
 
